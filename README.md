@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 📰 News App
+=======
+# NewskApp# 📰  
+>>>>>>> 3994604bab2bf54a6602e9b3e8cadea26bfadab7
 
 A modern Flutter news application with multilingual support, built using clean architecture principles and state management with BLoC pattern.
 
@@ -124,6 +128,7 @@ The app uses **BLoC pattern** for state management:
 ### Dependency Injection
 
 Uses `get_it` for dependency injection to manage service instances.
+<<<<<<< HEAD
 
 ## 📱 Screenshots
 
@@ -131,6 +136,9 @@ Uses `get_it` for dependency injection to manage service instances.
 
 ## 🚨 Troubleshooting
 
+=======
+  
+>>>>>>> 3994604bab2bf54a6602e9b3e8cadea26bfadab7
 ### Common Issues
 
 1. **Compiler Crash with Widget Tracking**
@@ -220,9 +228,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
+<<<<<<< HEAD
 **Abdullah Yassen**
 - GitHub: [@yourusername](https://github.com/yourusername)
 - Email: your.email@example.com
+=======
+**Mohamed Saqr**
+- GitHub: [https://github.com/MohamedSaqr4/NewskApp/edit/main/README.md]
+- Email: mohamedsaqrr57@gmail.com
+>>>>>>> 3994604bab2bf54a6602e9b3e8cadea26bfadab7
 
 ## 🙏 Acknowledgments
 
@@ -232,4 +246,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+<<<<<<< HEAD
 **Note**: This app is built for educational purposes. Make sure to comply with news API terms of service and respect content licensing when using real news data.
+=======
+**Note**: This app is built for educational purposes. Make sure to comply with news API terms of service and respect content licensing when using real news data.
+>>>>>>> 3994604bab2bf54a6602e9b3e8cadea26bfadab7
