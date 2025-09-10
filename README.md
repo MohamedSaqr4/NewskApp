@@ -124,13 +124,7 @@ The app uses **BLoC pattern** for state management:
 ### Dependency Injection
 
 Uses `get_it` for dependency injection to manage service instances.
-
-## 📱 Screenshots
-
-*Add screenshots of your app here*
-
-## 🚨 Troubleshooting
-
+  
 ### Common Issues
 
 1. **Compiler Crash with Widget Tracking**
