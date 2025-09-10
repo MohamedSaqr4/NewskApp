@@ -234,7 +234,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: your.email@example.com
 =======
 **Mohamed Saqr**
-- GitHub: [https://github.com/MohamedSaqr4/NewskApp/edit/main/README.md]
+- GitHub: [https://github.com/MohamedSaqr4]
 - Email: mohamedsaqrr57@gmail.com
 >>>>>>> 3994604bab2bf54a6602e9b3e8cadea26bfadab7
 
