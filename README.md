@@ -215,7 +215,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Mohamed Saqr**
-- GitHub: [https://github.com/MohamedSaqr4/NewskApp/edit/main/README.md]
+- GitHub: [https://github.com/MohamedSaqr4]
 - Email: mohamedsaqrr57@gmail.com
 
 ## 🙏 Acknowledgments
